@@ -1,7 +1,6 @@
 # 🏥 Patient Readmission & Bed Management Analysis Dashboard
 
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
-![SQL](https://img.shields.io/badge/Database-SQL-green)
 ![Excel](https://img.shields.io/badge/Tool-Excel-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
@@ -144,15 +143,6 @@ Patient-Readmission-Analysis/
 └── images/
     └── dashboard.png
 ```
-
----
-
-## 📊 Dashboard Preview
-
-```markdown id="f2t8jw"
-![Dashboard](images/dashboard.png)
-```
-
 ---
 
 ## 🚀 Key Outcomes
